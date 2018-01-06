@@ -1,0 +1,22 @@
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\bin\Debug\SecureMessage.exe.config
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\bin\Debug\SecureMessage.exe
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\bin\Debug\SecureMessage.pdb
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Debug\SecureMessage.DecryptMode.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Debug\SecureMessage.EncryptMode.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Debug\SecureMessage.SecureMessage.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Debug\SecureMessage.Properties.Resources.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Debug\SecureMessage.csproj.GenerateResource.Cache
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Debug\SecureMessage.exe
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Debug\SecureMessage.pdb
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Debug\SecureMessage.csprojResolveAssemblyReference.cache
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\bin\Debug\SecureMessage.exe.config
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Debug\SecureMessage.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Debug\SecureMessage.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\bin\Debug\SecureMessage.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\bin\Debug\SecureMessage.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Debug\SecureMessage.csprojResolveAssemblyReference.cache
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Debug\SecureMessage.DecryptMode.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Debug\SecureMessage.EncryptMode.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Debug\SecureMessage.SecureMessage.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Debug\SecureMessage.Properties.Resources.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Debug\SecureMessage.csproj.GenerateResource.Cache

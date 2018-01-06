@@ -1,0 +1,23 @@
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\bin\Release\SecureMessage.exe.config
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\bin\Release\SecureMessage.exe
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Release\SecureMessage.DecryptMode.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Release\SecureMessage.EncryptMode.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Release\SecureMessage.SecureMessage.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Release\SecureMessage.Properties.Resources.resources
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Release\SecureMessage.csproj.GenerateResource.Cache
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Release\SecureMessage.exe
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\obj\Release\SecureMessage.pdb
+C:\Users\helios\Documents\Visual Studio 2015\Projects\SecureMessage\SecureMessage\bin\Release\SecureMessage.pdb
+D:\INFO_PROJETS_HERE\WINFORMS_HERE\GOOD_CODES_HERE\SecureMessage\SecureMessage\SecureMessage\bin\Release\SecureMessage.exe.config
+D:\INFO_PROJETS_HERE\WINFORMS_HERE\GOOD_CODES_HERE\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.exe
+D:\INFO_PROJETS_HERE\WINFORMS_HERE\GOOD_CODES_HERE\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\bin\Release\SecureMessage.exe.config
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\bin\Release\SecureMessage.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\bin\Release\SecureMessage.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.DecryptMode.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.EncryptMode.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.SecureMessage.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.Properties.Resources.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SecureMessage\SecureMessage\SecureMessage\obj\Release\SecureMessage.csproj.GenerateResource.Cache
